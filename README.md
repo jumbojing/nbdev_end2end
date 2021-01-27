@@ -4,7 +4,7 @@
 
 > 根据[《Think Python 2e》最新版中文翻译by bjingjin](https://github.com/bingjin/ThinkPython2-CN)
 
-> 转换校对By @jumbo jing
+> 转换校对By @jumbojing
 <!-- #endregion -->
 
 ![](docs/figs/cover.jpg)
