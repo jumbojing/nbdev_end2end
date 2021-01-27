@@ -1,4 +1,4 @@
-# 《Think Python 2e》中文Jupyter版
+# 《Think Python 2e》中文Jupyter笔记
 
 > [Think Python 2nd Edition](https://github.com/AllenDowney/ThinkPython2) by Allen B. Downey
 
@@ -34,3 +34,9 @@
 * [第十九章：进阶小技巧](docs/19_the_goodies.ipynb)
 * [第二十章：调试](docs/20_debugging.ipynb)
 * [第二十一章：算法分析](docs/21_analysis_of_algorithms.ipynb)
+
+# ✎✎✎
+
+>  -  我会一章一章自行的阅读，校对，当然这是个学习的过程
+> - 因为是伪小白，所以先从第15章开始。。。会做一些笔记在上面 ✎✎✎
+> - nbdev目前还没整明白，所以以后或许会做吧。。。
