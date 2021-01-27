@@ -1,0 +1,73 @@
+
+
+== 《Think Python 2e》中文Jupyter笔记
+
+____
+by https://github.com/AllenDowney/ThinkPython2[
+Allen B. Downey]
+___
+
+
+* 根据《Think Python
+ 2e》最新版中文翻译by https://github.com/bingjin/ThinkPython2-CN[bjingjin]
+ 
+* 转换校对by JumboJing
+____
+
+image:figs/cover.jpg[image]
+
+= Think Python
+[quote,Allen B. Downey]
+____
+How to Think Like a Computer Scientist
+____
+
+2nd Edition, Version 2.2.14
+
+
+== 目录
+
+* link:00_preface.ipynb[前言]
+* link:01_the_way_of_the_program.ipynb[第一章：程序之道]
+* link:02_variables_expressions_and_statements.ipynb[第二章：变量、表达式和语句]
+* link:03_functions.ipynb[第三章：函数]
+* link:04_case_study_interface_design.ipynb[第四章：案例研究：接口设计]
+* link:05_conditionals_and_recursion.ipynb[第五章：条件和递归]
+* link:06_fruitful_functions.ipynb[第六章：有返回值的函数]
+* link:07_iteration.ipynb[第七章：迭代]
+* link:08_strings.ipynb[第八章：字符串]
+* link:09_case_study_word_play.ipynb[第九章：文字游戏]
+* link:10_lists.ipynb[第十章：列表]
+* link:11_dictionaries.ipynb[第十一章：字典]
+* link:12_tuples.ipynb[第十二章：元组]
+* link:13_case_study_data_structure_selection.ipynb[第十三章：案例研究：数据结构选择]
+* link:14_files.ipynb[第十四章：文件]
+* link:15_classes_and_objects.ipynb[第十五章：类和对象]
+* link:16_classes_and_functions.ipynb[第十六章：类和函数]
+* link:17_classes_and_methods.ipynb[第十七章：类和方法]
+* link:18_inheritance.ipynb[第十八章：继承]
+* link:19_the_goodies.ipynb[第十九章：进阶小技巧]
+* link:20_debugging.ipynb[第二十章：调试]
+* link:21_analysis_of_algorithms.ipynb[第二十一章：算法分析]
+
+[NOTE]
+====
+这里是我的笔记
+====
+[TIP]
+====
+这是提示
+====
+[IMPORTANT]
+====
+这个很重要
+====
+[CAUTION]
+====
+小心
+====
+[WARNING]
+====
+警告
+====
+
